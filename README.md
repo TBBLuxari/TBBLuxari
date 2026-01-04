@@ -1,7 +1,14 @@
 # 😎 Hey! Nice to see you.
 
-Welcome to my page!
-I'm **Luxari**, Fullstack developer from <img src="https://flagcdn.com/48x36/co.png" alt="Bandera de Colombia" />.
+<div align="center">
+  <p>Welcome to my page!</p>
+  <p>
+    I'm Luxari, Fullstack developer from: <br> <br>
+    <img src="https://flagcdn.com/48x36/co.png" alt="Bandera de Colombia" style="vertical-align: middle;" />
+  </p>
+</div>
+
+## 🚀 Sobre mí...
 
 ## Things I code with
 
