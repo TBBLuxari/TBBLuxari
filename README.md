@@ -38,7 +38,7 @@ Outside tech: mountains, motorcycles and getting lost on purpose.
 ### 🌐 Web
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <!--img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /-->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge" />
@@ -87,12 +87,11 @@ Outside tech: mountains, motorcycles and getting lost on purpose.
 
 ---
 
-## 📌 Philosophy
-
-> Good code is not just functional — it's usable, understandable and worth interacting with.
-
----
-
 ## 🔗 Portfolio
 
 👉 https://tbbluxari.github.io/portafolioAngular/
+https://github.com/TBBLuxari/ecommerce-frontend-angular
+https://github.com/TBBLuxari/ecommerce-backend-dotnet
+https://tbbluxari.github.io/HeartThreeJs/
+https://tbbluxari.github.io/Pokedex/#/
+
