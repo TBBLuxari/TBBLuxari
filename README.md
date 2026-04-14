@@ -89,9 +89,9 @@ Outside tech: mountains, motorcycles and getting lost on purpose.
 
 ## 🔗 Portfolio
 
-👉 https://tbbluxari.github.io/portafolioAngular/
-https://github.com/TBBLuxari/ecommerce-frontend-angular
-https://github.com/TBBLuxari/ecommerce-backend-dotnet
-https://tbbluxari.github.io/HeartThreeJs/
-https://tbbluxari.github.io/Pokedex/#/
+👉 
+1. https://github.com/TBBLuxari/ecommerce-frontend-angular
+2. https://github.com/TBBLuxari/ecommerce-backend-dotnet
+3. https://tbbluxari.github.io/HeartThreeJs/
+4. https://tbbluxari.github.io/Pokedex/#/
 
